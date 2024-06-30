@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1719753099 source:d:\workspace_of_embedded\workspace\stack_basedon_daynamicarray\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Std_Types.h"
+	"Stack_BasedOn_DaynamicArray.h"
+
+1717960948 d:\workspace_of_embedded\workspace\stack_basedon_daynamicarray\std_types.h
+	<stdio.h>
+	<stdlib.h>
+
+1719058104 d:\workspace_of_embedded\workspace\stack_basedon_daynamicarray\stack_basedon_daynamicarray.h
+	"Std_Types.h"
+
+1719748859 source:d:\workspace_of_embedded\workspace\stack_basedon_daynamicarray\stack_basedon_daynamicarray.c
+	"Stack_BasedOn_DaynamicArray.h"
+
